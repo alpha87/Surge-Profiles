@@ -17,10 +17,3 @@
 **此配置已包含 OPENAI 的线路规则，走机场中的美国线路**，前提是你的机场支持 OPENAI。
 
 <div align=center><img width="50%" height="50%" src="https://s2.loli.net/2024/03/01/zHTcg2Zr9Gx5sFe.jpg"></div>
-
-# 91 折话费充值
-
-作者开的小店，小本生意，感谢你的支持！
-
-![IMG_5519.jpg](https://s2.loli.net/2024/03/01/BPKUR6geJFAD7TC.jpg)
-

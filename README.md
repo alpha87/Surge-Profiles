@@ -15,5 +15,3 @@
 如果像使用 OPENAI 此类软件，建议找到对应的规则走特定路线。
 
 **此配置已包含 OPENAI 的线路规则，走机场中的美国线路**，前提是你的机场支持 OPENAI。
-
-<div align=center><img width="50%" height="50%" src="https://s2.loli.net/2024/03/01/zHTcg2Zr9Gx5sFe.jpg"></div>
